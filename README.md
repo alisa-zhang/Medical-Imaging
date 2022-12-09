@@ -1,1 +1,2 @@
-# Medical-Imaging-BIOENG-1340
+# BIOENG 1340
+This respository contains MATLAB projects I completed as a part of BIOENG 1340: Medical Imaging and Image Analysis taught by Dr. Prahlad G Menon at the University of Pittsburgh. Opening any of the folders will yield the assignment description in the README.md file, raw and processed data, the completed MATLAB code to run, the write-up with screenshots/photos for paraview, ITKSnap, MATLAB figures, handwritten solutions, and answers to any questions in the assignment.
